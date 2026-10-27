@@ -1,0 +1,33 @@
+{
+  "households": 71,
+  "cycles": 142,
+  "tue": 31185.78,
+  "chased": 61,
+  "chased_aud": 13381.57,
+  "at_risk": 22,
+  "clv_at_risk": 61113.86,
+  "est_reads": 798,
+  "nmis": 87,
+  "esr": 4.73,
+  "fri": 82.4,
+  "ncs": 37.27,
+  "sent_est": 45.6,
+  "sent_other": 61.3,
+  "booked": 73000.0,
+  "credits": 20887.72000000009,
+  "goodwill": 21420.0,
+  "net": 30692.27999999991,
+  "erosion": 58.0,
+  "by_state": {
+    "NSW": [
+      72,
+      36,
+      15656.93
+    ],
+    "VIC": [
+      70,
+      35,
+      15528.85
+    ]
+  }
+}
